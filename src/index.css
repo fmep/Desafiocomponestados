@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(164, 246, 149);
+  }
+  
+.formatoIcono{
+  height: 35px;
+  width: 35px;
+  color: black;
+  text-align: center;
+  padding: 3px;
+  border-width: 0.5px;
+  border-radius: 50%;
+  border-style: solid;
+}
+
+.bg-rosado{
+  background-color: rgb(246, 224, 227);
+  border-width: 0.5px;
+  border-color: pink;
+  border-style: solid;
+  height: 3em;
+  font-size: 12px;
+}
